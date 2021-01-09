@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/abinyayusuf/bwks/issues"
   },
-  "homepage": "https://github.com/abinyayusuf/bwks#readme"
+  "homepage": "https://github.com/abinyayusuf/bwks#readme",
+  "dependencies": {}
 }
